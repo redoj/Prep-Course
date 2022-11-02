@@ -1,0 +1,4 @@
+JSIII:
+Arrays: los bucles array son una coleccion de tipos de datos. Imaginemos que tenemos
+una mochila en la cual podemos meter alli l oque querramos, numeros, booleanos, strings, variables, lo que quieras... 
+...eso es un bucle array
