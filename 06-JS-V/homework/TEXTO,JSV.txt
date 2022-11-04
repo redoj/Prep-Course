@@ -1,0 +1,3 @@
+jsv:
+clases: sirven para poder crear muchos objetos que comparten algunas de las mismas propiedades y metodos.
+prototype: es un patron creacional que permite la clonacion de objetos, incluso los complejos. 
